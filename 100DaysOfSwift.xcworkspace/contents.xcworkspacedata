@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Animations/Animations.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BetterRest/BetterRest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Drawing/Drawing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GuessTheFlag/GuessTheFlag.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iExpense/iExpense.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Moonshot/Moonshot.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WeSplit/WeSplit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WordScramble/WordScramble.xcodeproj">
+   </FileRef>
+</Workspace>
